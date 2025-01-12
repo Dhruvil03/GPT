@@ -11,3 +11,4 @@ I have used LLMs like Ollama and Stable Diffusion for implimentation of this.
 <img src="https://github.com/user-attachments/assets/e1d13dfe-da34-4a13-9566-3a24dca4ee6d">
 
 <h1>Retrieval-Augmented Generation (RAG) Mode</h1>
+<img src="https://github.com/user-attachments/assets/b5532497-077c-4f4f-a301-136f2663ff49">
